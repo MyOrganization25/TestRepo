@@ -10,5 +10,5 @@ function ()
 
 function ()
 {
-  console.log("Editing tag");
+  console.log("Editing tag testing@1.0");
 }
