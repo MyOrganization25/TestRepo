@@ -5,5 +5,5 @@ function ()
 
 function ()
 {
-  console.log("Tag 1.0");
+  console.log("Tag testing@1.0");
 }
