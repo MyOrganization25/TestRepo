@@ -7,3 +7,8 @@ function ()
 {
   console.log("Tag testing@1.0");
 }
+
+function ()
+{
+  console.log("Editing tag");
+}
